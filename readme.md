@@ -1,7 +1,10 @@
-#About
+# Plug-Loader
+[![Build Status](https://travis-ci.org/Samshal/Plug-Loader.svg?branch=master)](https://travis-ci.org/Samshal/Plug-Loader)
+
+## About
 A PSR4 Implementation of an autoloader for the ~Plug Microframework.
 
-#How-TO
+## How-TO
 > The configuration file for this autoloader can be __supplied in two different formats__:
 > It can be provided as a json file or as an xml file.
 
