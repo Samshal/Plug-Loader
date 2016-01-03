@@ -6,4 +6,4 @@ php:
   - 7.0
   - hhvm
   - nightly
-script: phpunit vendor/autoloader.php
+script: phpunit test/autoloader_test.php
