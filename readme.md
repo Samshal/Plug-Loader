@@ -1,4 +1,4 @@
-# Plug-Loader [![Build Status](https://travis-ci.org/Samshal/Plug-Loader.svg?branch=master)](https://travis-ci.org/Samshal/Plug-Loader)
+# Plug-Loader [![Build Status](https://travis-ci.org/Samshal/Plug-Loader.svg?branch=master)](https://travis-ci.org/Samshal/Plug-Loader) [![Join the chat at https://gitter.im/Samshal/Plug-Loader](https://badges.gitter.im/Samshal/Plug-Loader.svg)](https://gitter.im/Samshal/Plug-Loader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## About
 A PSR4 Implementation of an autoloader for the ~Plug Microframework.
