@@ -1,8 +1,13 @@
 <?php
+namespace Plug\Autoloader;
+
 class AutoloaderTest extends \PHPUnit_Framework_TestCase
 {
-	public function test() {
-		$this->assertEquals(1+1,1);
+	public function testFileCanBeFound() {
+		$autoloader = new Autoloader();
+		$found = $autoloader->requireFile("autoload.json");
+
+		$this->assertTrue($found);
   	}
 }
 ?>
