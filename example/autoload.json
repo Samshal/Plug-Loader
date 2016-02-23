@@ -1,0 +1,9 @@
+{
+	"Namespaces":
+	{
+		"ROOT" : 
+		{
+			"Example\\" : "/example/src"
+		}
+	}
+}
